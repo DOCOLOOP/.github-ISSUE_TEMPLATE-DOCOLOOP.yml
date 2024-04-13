@@ -1,2 +1,2 @@
-# .github-ISSUE_TEMPLATE-DOCOLOOP.yml
+Welcome to DOCOLOOP
 Doco edits made easy.

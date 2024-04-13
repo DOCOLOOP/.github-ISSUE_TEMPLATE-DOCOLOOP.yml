@@ -1,6 +1,6 @@
 name: DOCOLOOP edit
 description: Submit a doco edit.
-title: "[docoloop-edit]: "
+title: "[Edits]: "
 labels: ["docoloop", "edit"]
 projects: ["DOCOLOOP/Edits"]
 assignees:

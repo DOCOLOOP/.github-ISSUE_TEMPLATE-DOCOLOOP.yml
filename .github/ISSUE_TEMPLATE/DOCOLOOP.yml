@@ -2,7 +2,7 @@ name: DOCOLOOP edit
 description: Submit a doco edit.
 title: "[docoloop-edit]: "
 labels: ["docoloop", "edit"]
-projects: ["docoloop-edit/1"]
+projects: ["DOCOLOOP/Edits"]
 assignees:
   - docoloop, edit
 body:
